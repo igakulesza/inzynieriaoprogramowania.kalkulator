@@ -1,6 +1,7 @@
 Autor: Iga Kulesza
-Data: 21.02.2022r.
+Data: 21.02.2022r
 
- to jest repo testowe z Inżynierii Oprogramowania
-Będą tutaj pierwsze próby dotyczące commitów i branchy
+To jest repo z kalkulatorem z Inżynierii Oprogramowania, 
+znajdują się tutaj pierwsze próby dotyczące commitów i branchy, 
+a także funkcje tworzące kalkulator.
 
